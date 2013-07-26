@@ -1,0 +1,3 @@
+load:
+  - src/main/javascript/CallLogging.js
+  - src/test/javascript/CallLoggingTest.js
